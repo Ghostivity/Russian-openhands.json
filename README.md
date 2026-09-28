@@ -25,7 +25,7 @@
 |---|---|
 | `openhands.json` | сам перевод |
 | `install.sh` | автоматический установщик (см. ниже) |
-| `INSTALL_RU.md` | эта инструкция |
+| `INSTALL.md` | эта инструкция |
 
 ### Способ 1 — автоматический (скрипт)
 
@@ -130,7 +130,7 @@ A complete Russian translation of the **OpenHands Agent Canvas** UI:
 |---|---|
 | `openhands.json` | the translation itself |
 | `install.sh` | automated installer (see below) |
-| `INSTALL_RU.md` | this guide |
+| `INSTALL.md` | this guide |
 
 ### Method 1 — automated (script)
 
